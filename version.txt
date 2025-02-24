@@ -1,5 +1,5 @@
 1.0.0.20250223
-https://fy-xiaofeng.github.io/app-updates/release/app_v1.0.0.20250223.exe
+https://fy-xiaofeng.github.io/app-updates/releases/app_v1.0.0.20250223.exe
 sha256:c4bbf1b72dd835df10530fe3679c561b8e7cf25d48da816f254e95ed3bd1e6a6
 [新增] 测试
 [优化] 测试
